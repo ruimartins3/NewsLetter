@@ -1,4 +1,4 @@
-
+require('dotenv').config();
 const API_KEY = process.env.API_KEY;
 const API_Ending= process.env.API_Ending;
 const API_ID= process.env.API_ID;
@@ -22,14 +22,15 @@ client.setConfig({
   server: API_Ending,
 });
 
+
  
 app.get("/", function(req, res){
   res.sendFile(__dirname + "/signup.html");
 })
 
 app.post("/", function(req, res) {
-  const firstName = req.body.fName;
-  const lastName = req.body.lName;
+  const firstName = req.body.firstName;
+  const lastName = req.body.secondName;
   const email = req.body.email;
   console.log(firstName, lastName, email);
   const subscribingUser = {
@@ -38,6 +39,7 @@ app.post("/", function(req, res) {
     email: email
   }
  
+
   const run = async () => {
     try {
       const response = await client.lists.addListMember(API_ID, {
@@ -51,7 +53,7 @@ app.post("/", function(req, res) {
       console.log(response);
       res.sendFile(__dirname + "/success.html");
     } catch (err) {
-      console.log(err.status);
+      console.log(err);
       res.sendFile(__dirname + "/failure.html");
     }
   };
