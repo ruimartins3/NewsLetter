@@ -10,8 +10,7 @@ const https = require("https");
 const client = require("@mailchimp/mailchimp_marketing"); 
  
 const app = express();
-var dir = path.join(__dirname, 'public');
-app.use(express.static(dir));
+app.use(express.static("public"));
 app.use(bodyParser.urlencoded({
   extended: true
 }));
