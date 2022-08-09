@@ -23,10 +23,9 @@ client.setConfig({
   server: API_Ending,
 });
 
-
  
 app.get("/", function(req, res){
-  res.sendFile(__dirname + "/signup.html");
+  res.sendFile(path.join(__dirname, 'signup.html'));
 })
 
 app.post("/", function(req, res) {
