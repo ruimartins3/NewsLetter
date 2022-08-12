@@ -11,9 +11,9 @@ What I used:
 
 ![6cbabb63dc51e3e6739796f6e537f599](https://user-images.githubusercontent.com/91401714/184388206-0aeb5c91-d8de-4a1d-a694-2dd475ce538d.png)
 Insert your name, last name and email in order to recive my newsletter!
---
+-
 ![6870820de6c9fc86a347a5640233c4c1](https://user-images.githubusercontent.com/91401714/184374864-a3153e32-f2c3-4aa1-9244-313430d409b1.png)
 If succeeded, this page will show up!
---
+-
 ![ade9c92fa24175600f2881c48b8e95a3](https://user-images.githubusercontent.com/91401714/184375009-bbe6cd7f-366e-4133-a8c8-23c1e31b14f1.png)
 If not succeeded, press try again to go back to the home page!
