@@ -9,7 +9,7 @@ What I used:
 <a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>
 </p>
 
-![23d354e8ad72bf0833082c11786d540b](https://user-images.githubusercontent.com/91401714/184374339-41730c57-f032-4dac-8555-ee3c95d89f8d.png)
+![6cbabb63dc51e3e6739796f6e537f599](https://user-images.githubusercontent.com/91401714/184388206-0aeb5c91-d8de-4a1d-a694-2dd475ce538d.png)
 Insert your name, last name and email in order to recive my newsletter!
 ![6870820de6c9fc86a347a5640233c4c1](https://user-images.githubusercontent.com/91401714/184374864-a3153e32-f2c3-4aa1-9244-313430d409b1.png)
 If succeeded, this page will show up!
