@@ -10,3 +10,6 @@ What I used:
 </p>
 
 ![23d354e8ad72bf0833082c11786d540b](https://user-images.githubusercontent.com/91401714/184374339-41730c57-f032-4dac-8555-ee3c95d89f8d.png)
+![6870820de6c9fc86a347a5640233c4c1](https://user-images.githubusercontent.com/91401714/184374864-a3153e32-f2c3-4aa1-9244-313430d409b1.png)
+![ade9c92fa24175600f2881c48b8e95a3](https://user-images.githubusercontent.com/91401714/184375009-bbe6cd7f-366e-4133-a8c8-23c1e31b14f1.png)
+
